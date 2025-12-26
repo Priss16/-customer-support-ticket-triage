@@ -1,1 +1,1 @@
-# -customer-support-ticket-triage
+# customer-support-ticket-triage
